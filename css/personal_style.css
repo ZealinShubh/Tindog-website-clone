@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    font-family: 'Newsreader', serif;
+}
+
+h1{
+    margin: 0 auto 0 auto;
+    font-family: 'Rye', cursive;
+}
+
+h2{
+    font-family: 'Stardos Stencil', cursive;
+}
+
+h3{
+    
+}
+
+.top-container{
+    background-color: #e4f9f5;/*#antiquewhite*/
+    padding-top: 80px;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.intro{
+    display: inline-block;
+
+}
+
+.intro-paragraph{
+    position: absolute;
+    text-align: left;
+    padding-top: 40px;
+    left: 250px;
+}
+
+.skills{
+    width: 50%;
+    margin: auto;
+}
+
+.skill-camera{
+    margin: 40px auto 100px auto;
+    text-align: left;
+}
+
+.skill-console{
+    margin: 100px auto 100px auto;
+    text-align: right;
+}

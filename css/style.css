@@ -1,0 +1,22 @@
+body{
+    background-color: #ce8181;
+}
+hr{
+    border-style: none;
+    border-top-style:dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 20%;
+}
+h1{
+    color: red;
+    font-size: 70px;
+}
+
+.about{
+    color: blue;
+}
+
+.font{
+    font-size: 50px;
+}
